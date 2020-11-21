@@ -1,0 +1,22 @@
+{
+  "name": "est_onedit",
+  "version": "1.0.1",
+  "description": "Estuds planilha googlescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayaemerson/onEdit.git"
+  },
+  "author": "Emerson Maia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayaemerson/onEdit/issues"
+  },
+  "homepage": "https://github.com/mayaemerson/onEdit#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.17"
+  }
+}
